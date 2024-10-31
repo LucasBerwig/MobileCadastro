@@ -50,7 +50,7 @@ Siga os passos abaixo para rodar o projeto localmente:
 │   ├── src
 │   │   ├── main
 │   │   │   ├──
-java/com/example/apphamburgueri
+java/com/example/sistemaDeCadastro
 │   │   │  
 │   ├── MainActivity
 │   ├── TelaCadastroUsuario
