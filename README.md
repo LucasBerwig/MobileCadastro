@@ -14,7 +14,7 @@ segundo botão da tela principal, temos o botão para ver
 as listagens que seriam pra ver todos os cadastros que
 foram realizados.
 
-## 🔧 Funcionalidades do App Hamburgueria
+## 🔧 Funcionalidades do App Cadastro
 
 - [x] Tela principal (Para acessar opção de cadastro);
 - [x] Tela de cadastro. 
